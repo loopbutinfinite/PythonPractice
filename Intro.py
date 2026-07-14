@@ -26,3 +26,6 @@ x = "Salty"
 a =  str(3)
 b = int(3)
 c = float(3)
+
+# Python allows you to assign Mulitple Values to Multiple Variables
+x, y, z = "Orange", "Banana", "Cherry"
