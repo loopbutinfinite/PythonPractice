@@ -11,3 +11,18 @@ print("Five is greater than two!")
 # With Indentation
 if 5 > 2:
 	print("Five is greater than two!")
+
+
+# ================================
+
+# Creating Variables in Python
+
+# A Variable is created the moment you assign a value to it.
+
+x = 4
+x = "Salty"
+
+# If you wanted to assign a type to the variable, you would use type casting.
+a =  str(3)
+b = int(3)
+c = float(3)
